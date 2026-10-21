@@ -1,0 +1,7 @@
+   target/
+   node_modules/
+   build/
+   .gradle/
+   .vscode/
+   .idea/
+   src/main/frontend/generated/
